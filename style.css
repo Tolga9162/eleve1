@@ -76,6 +76,7 @@ h1,h2,h3 {
 .header {
 	background: url(img/header.gif) repeat-x;
 }
+.emploi { color:red }
 
 /* title */
 .title h1 {
